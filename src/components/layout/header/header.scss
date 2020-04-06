@@ -1,0 +1,21 @@
+.navbar-light .navbar-nav .nav-link {
+  color: #000000;
+  font-size: 16px;
+  font-weight: bold;
+  padding-right: .7rem;
+  padding-left: .7rem;  
+}
+
+.navbar-brand {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.show .navbar-collapse {
+  .navbar-nav {
+    background: #FFFFFF;
+  }
+  .nav-link {
+    background: #000000;
+  }
+}
